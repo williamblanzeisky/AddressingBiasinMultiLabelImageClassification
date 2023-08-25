@@ -28,4 +28,6 @@ python main.py --experiment celeba_baseline --experiment_name e1 --random_seed 1
 After running, the experiment result will be saved under `record/experiment/experiment_name`
 
 
-## Our experiments for addressing underestimation bias use the CVPR paper "Effective Strategies for Bias Mitigation" as the baseline to compare our proposed method with. Our base model is saved under models/ResNet_FC_MOPSO. The training procedure for our framework is in runPSO.py.
+- [Due to the size, the code and dataset is available here.](https://drive.google.com/drive/folders/1-bIeqvqAT9RTBl-qb_sIiZc_QC1Cgyeb?usp=sharing)
+  
+Our experiments for addressing underestimation bias use the CVPR paper "Effective Strategies for Bias Mitigation" as the baseline to compare our proposed method with. Our base model is saved under models/ResNet_FC_MOPSO. The training procedure for our framework is in runPSO.py.
